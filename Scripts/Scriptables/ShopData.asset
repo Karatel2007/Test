@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2355c3faae627774c83ede7857ec826d, type: 3}
+  m_Name: ShopData
+  m_EditorClassIdentifier: 
+  items:
+  - index: 0
+    price: 5
+    icon: {fileID: 21300000, guid: 138cc248c68f2fb4d95214239eb5517d, type: 3}
+    prefab: {fileID: 8979164569752461830, guid: e04d2226007812b4cb5b6bceeb60038c,
+      type: 3}
+  - index: 1
+    price: 80
+    icon: {fileID: 21300000, guid: c238bcfa0b61d234c866ae59e0f0fe88, type: 3}
+    prefab: {fileID: 3757449136612358938, guid: e07f7f05e03d7014a8b10954156672df,
+      type: 3}
+  - index: 2
+    price: 150
+    icon: {fileID: 21300000, guid: 4fdc0857e60daea48807d0cc8494d18f, type: 3}
+    prefab: {fileID: 1980847051798332165, guid: 93ba98c5648ad9c4db4fff13814aaeae,
+      type: 3}
+  - index: 3
+    price: 200
+    icon: {fileID: 21300000, guid: 73cdb86930a9c4841b02fdda8dd6753f, type: 3}
+    prefab: {fileID: 5630375085634423198, guid: b8f8f0e20917bb24e81dda8e86d72ead,
+      type: 3}
+  - index: 4
+    price: 15
+    icon: {fileID: 21300000, guid: d1d784fd81d06264386aa683a5549c1e, type: 3}
+    prefab: {fileID: 1403018292010014061, guid: 006075c4bf0e2a548859cf3190d25f46,
+      type: 3}

@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9995b7df3373c6b44bf29461153e2fed, type: 3}
+  m_Name: BuildingData
+  m_EditorClassIdentifier: 
+  BuildingsInfo:
+  - name: Ceil
+    hologram: {fileID: 8591775899213100047, guid: 68333ef3b7fa99b49887dc43b018355f,
+      type: 3}
+    price: 10
+  - name: Door
+    hologram: {fileID: 3804009357393425708, guid: 9219ac0f0269ca34580a5451bb3d910a,
+      type: 3}
+    price: 10
+  - name: Floor
+    hologram: {fileID: 2921426798447051205, guid: d27bfe5741c1fb14988992d4fdbfeb15,
+      type: 3}
+    price: 500
+  - name: Wall
+    hologram: {fileID: 8919184570420037872, guid: 27685bcc5f8d8834b8b512b707d94707,
+      type: 3}
+    price: 10
+  - name: DoorWall
+    hologram: {fileID: 897837328386055918, guid: 3ee197fa310dca04a83df6427b9bdc21,
+      type: 3}
+    price: 10
+  - name: WindowWall
+    hologram: {fileID: 5891144059724285093, guid: bf20bc4465f533d4baeb3b0ded4a0e8a,
+      type: 3}
+    price: 10
+  - name: Window
+    hologram: {fileID: 3621628848635580128, guid: 81401d709aeeacb4ca4f7aee1c07447e,
+      type: 3}
+    price: 10
